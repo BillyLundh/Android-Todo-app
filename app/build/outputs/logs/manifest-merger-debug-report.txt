@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\Billy\.android\build-cache\44d727730ae33598fb01e0e89a993ff1c1aaf585\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Billy\.android\build-cache\97b7de414b29ee5b1f7ebc4677d9409e480c1a6c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Billy\.android\build-cache\781ded471e12fe002fe7fedcd26a4d28b6579cc0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Billy\.android\build-cache\f577e0ca7c62814173796d240b67d41a622a520c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Billy\.android\build-cache\e1755600415cfad37f184979a5e482e2d9b0ad3f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Billy\.android\build-cache\01043ec9308762986aff6b0e6357fecdcd671397\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Billy\.android\build-cache\c019ed07c328b7f1117a7438b7a8988bfef5dcba\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Billy\.android\build-cache\6966dbfe14c922231778812c3de0c0ca0caeb172\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Billy\.android\build-cache\527fca104fffea6d63f4a76a4c57d07808e68bdc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Billy\.android\build-cache\5181946e97376cbf8f7db6e39e4ccb434cb10d95\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Billy\.android\build-cache\f8093676694d8169312bd3b71ec157988946a804\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Billy\.android\build-cache\b61dc72466e02689f95e4f3996cac9836e259e25\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#se.embrace.TodoAble.TaskListActivity
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:14:13-47
+	android:theme
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:13:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#se.embrace.TodoAble.TaskDetailActivity
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:22:19-53
+activity#se.embrace.TodoAble.StatisticsActivity
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:23:19-53
+activity#se.embrace.TodoAble.InfoActivity
+ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\Billy\.android\build-cache\44d727730ae33598fb01e0e89a993ff1c1aaf585\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Billy\.android\build-cache\97b7de414b29ee5b1f7ebc4677d9409e480c1a6c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Billy\.android\build-cache\781ded471e12fe002fe7fedcd26a4d28b6579cc0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Billy\.android\build-cache\f577e0ca7c62814173796d240b67d41a622a520c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Billy\.android\build-cache\8c92e7f38527aff0b9ad4479b2140baf5bb12c74\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Billy\.android\build-cache\e1755600415cfad37f184979a5e482e2d9b0ad3f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Billy\.android\build-cache\01043ec9308762986aff6b0e6357fecdcd671397\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Billy\.android\build-cache\c019ed07c328b7f1117a7438b7a8988bfef5dcba\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Billy\.android\build-cache\6966dbfe14c922231778812c3de0c0ca0caeb172\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Billy\.android\build-cache\527fca104fffea6d63f4a76a4c57d07808e68bdc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Billy\.android\build-cache\5181946e97376cbf8f7db6e39e4ccb434cb10d95\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Billy\.android\build-cache\f8093676694d8169312bd3b71ec157988946a804\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Billy\.android\build-cache\b61dc72466e02689f95e4f3996cac9836e259e25\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Billy\.android\build-cache\44d727730ae33598fb01e0e89a993ff1c1aaf585\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\src\main\AndroidManifest.xml

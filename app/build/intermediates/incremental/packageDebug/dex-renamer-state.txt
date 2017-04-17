@@ -1,0 +1,7 @@
+#Mon Apr 17 15:13:49 CEST 2017
+base.0=C\:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95ce090cff5ca091c6e8117d29b6a537ab73f6fe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80696ec6706048b326f2f85918c5448633f61cb2\\classes.dex
+base.1=C\:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80696ec6706048b326f2f85918c5448633f61cb2
+file.0=C\:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95ce090cff5ca091c6e8117d29b6a537ab73f6fe\\classes.dex

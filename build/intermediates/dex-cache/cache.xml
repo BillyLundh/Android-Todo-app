@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75d4769ee767ae7c4f760ad8cc6f01d6b30afb5f">
+        <dex dex="C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_95ce090cff5ca091c6e8117d29b6a537ab73f6fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Billy\Desktop\copy 2\TodoForAndroidTraining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80696ec6706048b326f2f85918c5448633f61cb2\classes.dex" />
+    </item>
+
+</items>

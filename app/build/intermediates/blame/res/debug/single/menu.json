@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filters.xml",
+        "source": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\src\\main\\res\\menu\\filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_info.xml",
+        "source": "C:\\Users\\Billy\\Desktop\\copy 2\\TodoForAndroidTraining-master\\app\\src\\main\\res\\menu\\menu_info.xml"
+    }
+]
